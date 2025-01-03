@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo!👋🏼
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasalmeidadev94/)
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.almeida94/profilecard/?igsh=MWF3eW5pNmoz-MnFxNg==)
+[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.almeida94)
 
 ![Douglas Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasalmeida21091994&show_icons=true&theme=dracula)
 
