@@ -37,5 +37,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
   <img width="3" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="25" alt="oracle logo"  />
+  <img width="3" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="25" alt="sqlite logo"  />
 </div>
+
 <img src="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/snake.svg" alt="Snake animation" />
