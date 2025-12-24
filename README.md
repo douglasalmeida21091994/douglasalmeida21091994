@@ -102,5 +102,5 @@
 <img src="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <sub>✨ "Transformando linhas de código em soluções para a saúde" ✨</sub>
+  <sub>✨ "Transformando linhas de código em soluções." ✨</sub>
 </div>
