@@ -74,7 +74,7 @@
 
 ## 📈 **Atualmente**
 
-- 🔭 Trabalhando na **Smile Saúde** como Desenvolvedor Backend PHP
+- 🔭 Trabalhando na **Smile Saúde** como Desenvolvedor Full Stack
 - 🚀 Desenvolvendo sistemas complexos para **gestão de clínicas**
 - ⚡ **Otimização de performance**: +99% velocidade com Query Tuning
 - 🌱 Estudando: **SQL Server, Azure, Docker Avançado**
