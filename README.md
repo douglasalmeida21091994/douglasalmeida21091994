@@ -15,8 +15,6 @@
 
 <br clear="both">
 
-<br>
-
 ## 🛠️ **Minha Stack Técnica**
 
 ### **💻 Backend & Databases**
