@@ -84,7 +84,7 @@
 
 ## 🎯 **Projetos em Destaque**
 
-### **🏥 Sistema de Gestão de Clínicas**
+### **🏥 Sistema de Atendimento e Gestão de Clínicas**
 - PHP/Laravel • Oracle/MySQL • APIs RESTful • Bootstrap
 - Módulos: Agendamentos, Atendimento, Validação Facial, Fila em Tempo Real
 - **Resultado**: Sistema 99% mais rápido após otimizações
