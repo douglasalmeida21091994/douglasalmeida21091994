@@ -15,14 +15,6 @@
 
 <br clear="both">
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglasalmeida21091994&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=cbd5e1&border_color=1e293b" height="165" alt="stats graph"  />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasalmeida21091994&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=cbd5e1&border_color=1e293b" height="165" alt="languages graph"  />
-</div>
-
 <br>
 
 ## 🛠️ **Minha Stack Técnica**
