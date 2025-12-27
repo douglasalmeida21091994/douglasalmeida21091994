@@ -8,7 +8,7 @@
   <a href="mailto:dougllas_17@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="28" alt="outlook logo" />
   </a>
-  <a href="http://35.175.125.55/douglas-almeida/portfolio.php" target="_blank">
+  <a href="https://douglas-almeida.duckdns.org//douglas-almeida/portfolio.php" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Live%20Portfolio%20AWS&logo=amazonaws&label=&color=ff9900&logoColor=white&style=for-the-badge" height="28" alt="portfolio aws" />
   </a>
   <a href="https://douglasalmeida21091994.github.io/douglas-almeida/" target="_blank">
