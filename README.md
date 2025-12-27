@@ -8,7 +8,7 @@
   <a href="mailto:dougllas_17@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="28" alt="outlook logo" />
   </a>
-  <a href="https://douglas-almeida.duckdns.org//douglas-almeida/portfolio.php" target="_blank">
+  <a href="https://douglas-almeida.duckdns.org/douglas-almeida/portfolio.php" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Live%20Portfolio%20AWS&logo=amazonaws&label=&color=ff9900&logoColor=white&style=for-the-badge" height="28" alt="portfolio aws" />
   </a>
   <a href="https://douglasalmeida21091994.github.io/douglas-almeida/" target="_blank">
@@ -21,11 +21,14 @@
 ### 👨‍💻 Sobre Mim
 Desenvolvedor **Full Stack** na **Smile Saúde**, focado em arquiteturas de alta complexidade para o setor hospitalar. Atuo na linha de frente do desenvolvimento do **ERP clínico** e lidero projetos estratégicos de **IA e Automação de Faturamento**. Minha marca registrada é o comprometimento extremo: além do core business, gerencio demandas críticas e emergenciais para garantir **Zero Downtime** e máxima eficiência operacional.
 
-### ☁️ Cloud Proof (AWS & Azure)
-Minha expertise em nuvem é validada por implementações reais e funcionais:
-* **Provisionamento:** Instâncias **EC2** com isolamento de rede via **VPC**.
-* **Storage:** Gestão de objetos no **AWS S3** com fluxos de **Signature V4**.
-* **DevOps:** Conteinerização com **Docker** e fluxos de automação de infraestrutura.
+### 🌐 Infraestrutura Live (AWS Proof)
+Mantenho um ambiente real de produção para demonstração de habilidades **DevOps** e **Cloud Arch**:
+* **Provisionamento:** Instância **EC2 (Ubuntu 24.04)** com servidor **Apache 2.4**.
+* **Segurança:** Domínio gerenciado com **SSL Let's Encrypt** (HTTPS ativo).
+* **Database:** Instância dedicada **AWS RDS (MySQL)** para persistência escalável.
+* **Storage:** Integração nativa com **AWS S3** para gestão de documentos via SDK.
+
+🔗 **[Acesse meu Lab de Infraestrutura](https://douglas-almeida.duckdns.org)**
 
 ---
 
@@ -50,11 +53,12 @@ Minha expertise em nuvem é validada por implementações reais e funcionais:
 
 #### 🤖 **Smart Billing AI (Setor de Faturamento)**
 * **Desafio:** Reduzir glosas e eliminar erros manuais no faturamento hospitalar.
-* **Solução:** Sistema autônomo baseado em **N8N e IA** para análise preditiva de lotes e suporte à decisão.
+* **Solução:** Sistema autônomo baseado em **N8N e IA** para análise preditiva de lotes.
 
 #### ☁️ **AWS S3 Cloud Lab**
-* **Foco:** Segurança e escalabilidade no armazenamento de arquivos.
-* **Recursos:** URLs pré-assinadas, **IAM Policies** restritivas e deploy conteinerizado em instância **EC2**.
+* **Foco:** Segurança e escalabilidade no armazenamento de arquivos hospitalares.
+* **Recursos:** URLs pré-assinadas, **IAM Policies** restritivas e deploy em infraestrutura segura.
+* **Link Live:** [Visualizar Contratos (RDS + S3)](https://douglas-almeida.duckdns.org/aws-s3/src/listar.php)
 
 ---
 
