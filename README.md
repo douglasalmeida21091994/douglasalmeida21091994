@@ -99,14 +99,23 @@ Também entrego sistemas completos para clientes como a <a href="https://mracade
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasalmeida21091994&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalmeida21091994&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=douglasalmeida21091994&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=douglasalmeida21091994&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=94a3b8&hide=currentStreak&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/github-contribution-grid-snake.svg" />
+  <img alt="cobrinha github" src="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
