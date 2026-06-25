@@ -185,7 +185,7 @@ Também entrego sistemas completos para clientes como a <a href="https://mracade
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasalmeidadev94)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://douglasalmeidadev.com.br)
-[![Gmail](https://img.shields.io/badge/dougalmeida118%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dougalmeida118@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dougalmeida118@gmail.com)
 
 </div>
 
