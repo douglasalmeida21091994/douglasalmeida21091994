@@ -88,10 +88,6 @@ MedCore Academy — plataformas de gestão e comerciais
 ### GitHub stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalmeida21091994&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&cache_seconds=86400"/>
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=douglasalmeida21091994&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=94a3b8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -108,8 +104,6 @@ MedCore Academy — plataformas de gestão e comerciais
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-
-> Essa cobrinha só aparece se o workflow `snake.yml` estiver rodando no seu repositório `douglasalmeida21091994/douglasalmeida21091994`. Deixei o arquivo pronto em `snake.yml` — instruções de como ativar estão logo abaixo.
 
 ---
 
