@@ -95,8 +95,6 @@ MedCore Academy — plataformas de gestão e comerciais
 
 ---
 
-### 🐍 Snake
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasalmeida21091994/douglasalmeida21091994/output/github-contribution-grid-snake-dark.svg" />
